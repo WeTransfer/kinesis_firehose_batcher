@@ -25,6 +25,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.md",
     "Rakefile",
+    "kinesis_firehose_batcher.gemspec",
     "lib/kinesis_firehose_batcher.rb",
     "spec/kinesis_firehose_batcher_spec.rb",
     "spec/spec_helper.rb"
