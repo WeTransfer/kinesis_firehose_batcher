@@ -1,5 +1,7 @@
 # kinesis_firehose_batcher
 
+[![Build Status](https://travis-ci.org/WeTransfer/kinesis_firehose_batcher.svg?branch=master)](https://travis-ci.org/WeTransfer/kinesis_firehose_batcher)
+
 Send record strings to AWS Kinesis Firehose in sensible batches (straddling the limits for the batch
 size, maximum number of records and maximum record length).
 
